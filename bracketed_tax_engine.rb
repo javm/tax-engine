@@ -1,5 +1,4 @@
 module BracketedTaxEngine
-
   def percentage(n, portion)
     x = (n * portion) / 100
   end
