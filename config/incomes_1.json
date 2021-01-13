@@ -1,0 +1,9 @@
+{
+  "incomes": [
+    { "client": "Client 1", "income": 60000 },
+    { "client": "Client 2", "income": 800 },
+    { "client": "Client 3", "income": 15000},
+    { "client": "Client 4", "income": 3000},
+    { "client": "Client 5", "income": 20001.5}
+  ]
+}
